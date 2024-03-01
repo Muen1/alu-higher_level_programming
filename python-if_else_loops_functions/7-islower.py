@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Author - Nsenga Nigel
+#Author - Cynthia Mutie
 
 
 def islower(c):
