@@ -1,1 +1,1 @@
-python alost a circle
+python almost a circle
